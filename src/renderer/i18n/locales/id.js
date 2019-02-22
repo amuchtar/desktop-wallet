@@ -925,6 +925,3 @@ export default {
     RENAME: 'Ganti nama'
   }
 }
-
-
-      
