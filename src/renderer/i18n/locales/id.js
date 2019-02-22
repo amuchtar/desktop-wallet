@@ -444,8 +444,7 @@ export default {
         TEXT: 'Masukkan alamat kontak Anda. Anda akan dapat melihat transaksinya'
       },
       TITLE: 'Masukkan alamat kontak',
-	  
-      ADDRESS: 'Alamat',
+	    ADDRESS: 'Alamat',
       NAME: 'Nama Kontak (optional)',
       NAME_INFO: 'Info.:',
       NAME_DESCRIPTION: 'Nama kontak tidak diperlukan, tetapi dapat digunakan untuk kenyamanan Anda',
